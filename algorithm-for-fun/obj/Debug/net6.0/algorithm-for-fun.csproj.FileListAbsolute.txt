@@ -1,0 +1,15 @@
+/Users/oguzhancakir/Documents/Nuno/GitHub/algorithm-for-fun/algorithm-for-fun/bin/Debug/net6.0/algorithm-for-fun
+/Users/oguzhancakir/Documents/Nuno/GitHub/algorithm-for-fun/algorithm-for-fun/bin/Debug/net6.0/algorithm-for-fun.deps.json
+/Users/oguzhancakir/Documents/Nuno/GitHub/algorithm-for-fun/algorithm-for-fun/bin/Debug/net6.0/algorithm-for-fun.runtimeconfig.json
+/Users/oguzhancakir/Documents/Nuno/GitHub/algorithm-for-fun/algorithm-for-fun/bin/Debug/net6.0/algorithm-for-fun.dll
+/Users/oguzhancakir/Documents/Nuno/GitHub/algorithm-for-fun/algorithm-for-fun/bin/Debug/net6.0/algorithm-for-fun.pdb
+/Users/oguzhancakir/Documents/Nuno/GitHub/algorithm-for-fun/algorithm-for-fun/obj/Debug/net6.0/algorithm-for-fun.csproj.AssemblyReference.cache
+/Users/oguzhancakir/Documents/Nuno/GitHub/algorithm-for-fun/algorithm-for-fun/obj/Debug/net6.0/algorithm-for-fun.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oguzhancakir/Documents/Nuno/GitHub/algorithm-for-fun/algorithm-for-fun/obj/Debug/net6.0/algorithm-for-fun.AssemblyInfoInputs.cache
+/Users/oguzhancakir/Documents/Nuno/GitHub/algorithm-for-fun/algorithm-for-fun/obj/Debug/net6.0/algorithm-for-fun.AssemblyInfo.cs
+/Users/oguzhancakir/Documents/Nuno/GitHub/algorithm-for-fun/algorithm-for-fun/obj/Debug/net6.0/algorithm-for-fun.csproj.CoreCompileInputs.cache
+/Users/oguzhancakir/Documents/Nuno/GitHub/algorithm-for-fun/algorithm-for-fun/obj/Debug/net6.0/algorithm-for-fun.dll
+/Users/oguzhancakir/Documents/Nuno/GitHub/algorithm-for-fun/algorithm-for-fun/obj/Debug/net6.0/refint/algorithm-for-fun.dll
+/Users/oguzhancakir/Documents/Nuno/GitHub/algorithm-for-fun/algorithm-for-fun/obj/Debug/net6.0/algorithm-for-fun.pdb
+/Users/oguzhancakir/Documents/Nuno/GitHub/algorithm-for-fun/algorithm-for-fun/obj/Debug/net6.0/algorithm-for-fun.genruntimeconfig.cache
+/Users/oguzhancakir/Documents/Nuno/GitHub/algorithm-for-fun/algorithm-for-fun/obj/Debug/net6.0/ref/algorithm-for-fun.dll
